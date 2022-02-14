@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 52bcf20c-777a-b4ef-31d4-6d96edf20ad1
 title: Lab 9 Updates
+type: CourseSection
 uid: 5aedfcb8-509b-2d07-09c2-3215d8218deb
 ---
 
