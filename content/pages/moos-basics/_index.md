@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: MOOS Basics
-type: CourseSection
 uid: dab1dc4f-1da2-1ac2-f601-43a182449e27
 ---
 

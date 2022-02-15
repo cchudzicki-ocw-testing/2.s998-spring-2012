@@ -8,6 +8,5 @@ parent_title: Lab 7 Updates
 parent_type: CourseSection
 resourcetype: Other
 title: lab07-mid-sln.tgz
-type: OCWFile
 uid: 134b04d3-4970-bbd3-bc39-e0783368fec6
 ---

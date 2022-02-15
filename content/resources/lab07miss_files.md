@@ -8,6 +8,5 @@ parent_title: Lab 7 Updates
 parent_type: CourseSection
 resourcetype: Other
 title: lab07miss_files.tgz
-type: OCWFile
 uid: 9e70e0c7-6eb5-1378-431d-30b35418c6ab
 ---
