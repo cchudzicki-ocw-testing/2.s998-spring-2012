@@ -36,7 +36,7 @@ Misc. Other Updates
 Partial Solutions
 -----------------
 
-[Example solutions to lab exercises (TGZ)]({{< baseurl >}}/resources/lab07-mid-sln) (the ones given as precursors to the hand-in assignments).
+{{< resource_link 134b04d3-4970-bbd3-bc39-e0783368fec6 "Example solutions to lab exercises (TGZ)" >}} (the ones given as precursors to the hand-in assignments).
 
 To untar:
 
@@ -44,7 +44,7 @@ To untar:
 tar xvfz filename.tgz
 ```
 
-[Example solutions to exercise in Section 3.1 in Lab 07 (TGZ)]({{< baseurl >}}/resources/lab07miss_files).
+{{< resource_link 9e70e0c7-6eb5-1378-431d-30b35418c6ab "Example solutions to exercise in Section 3.1 in Lab 07 (TGZ)" >}}.
 
 To untar:
 
