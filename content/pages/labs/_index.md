@@ -51,7 +51,7 @@ None
 Marine Robotics Software 1
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 41f1994c-731d-a5f3-0aab-03cce84520c6 "Introduction to C++ (PDF)" >}}
+{{% resource_link 41f1994c-731d-a5f3-0aab-03cce84520c6 "Introduction to C++ (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -66,10 +66,10 @@ None
 Marine Robotics Software 2
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 7fddade8-1416-445c-8138-3094ef5ecb7c "Introduction to MOOS (PDF)" >}}
+{{% resource_link 7fddade8-1416-445c-8138-3094ef5ecb7c "Introduction to MOOS (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link e87b2b25-33b9-6b81-4cf6-cc87068c405e "Lab 3 updates" >}}
+{{% resource_link e87b2b25-33b9-6b81-4cf6-cc87068c405e "Lab 3 updates" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,10 +81,10 @@ Marine Robotics Software 2
 MOOS Middleware
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 6d2a677e-723b-8845-1329-cacc7f1c1abf "Introduction to MOOS Programming (PDF)" >}}
+{{% resource_link 6d2a677e-723b-8845-1329-cacc7f1c1abf "Introduction to MOOS Programming (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 3c8cb2f7-8c9e-f1cb-b739-8f038f22de49 "Lab 4 updates" >}}
+{{% resource_link 3c8cb2f7-8c9e-f1cb-b739-8f038f22de49 "Lab 4 updates" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,10 +96,10 @@ MOOS Middleware
 MOOS Application Writing
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link ecfe1dec-3e4f-6ff0-85d0-55faa2860b39 "Ocean Acoustic Environment (PDF)" >}}
+{{% resource_link ecfe1dec-3e4f-6ff0-85d0-55faa2860b39 "Ocean Acoustic Environment (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 0454fc22-5af4-a295-2ae3-1e0b6d301cff "Lab 5 updates" >}}
+{{% resource_link 0454fc22-5af4-a295-2ae3-1e0b6d301cff "Lab 5 updates" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,12 +111,12 @@ MOOS Application Writing
 Intro to Helm Autonomy
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 9810af2e-eeed-70ba-9cb3-65784c1b9fb5 "Intro to Helm Autonomy (PDF)" >}}
+{{% resource_link 9810af2e-eeed-70ba-9cb3-65784c1b9fb5 "Intro to Helm Autonomy (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link 59c5b6bb-44a9-c4b9-974d-a4b1f5553132 "Lab 6 updates" >}}
+{{% resource_link 59c5b6bb-44a9-c4b9-974d-a4b1f5553132 "Lab 6 updates" %}}
 
 Lab 6 video clips:
 
@@ -144,12 +144,12 @@ Lab 6 video clips:
 Sim Multi-vehicle Ops Pt1
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 0453c213-91c2-1818-8446-923ba41a6066 "Simulation of Multi-Vehicle Operations (PDF)" >}}
+{{% resource_link 0453c213-91c2-1818-8446-923ba41a6066 "Simulation of Multi-Vehicle Operations (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link 0e1c4f16-9177-fa24-07c9-42dd4fa282be "Lab 7 updates" >}}
+{{% resource_link 0e1c4f16-9177-fa24-07c9-42dd4fa282be "Lab 7 updates" %}}
 
 Lab 7 video clips:
 
@@ -171,7 +171,7 @@ Lab 7 video clips:
 Sim Multi-vehicle Ops Pt2
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link fb0ee16f-dd44-b387-4dfd-291da784e2b5 "Multi-Machine Simulation of Multi-Vehicle Operations (PDF)" >}}
+{{% resource_link fb0ee16f-dd44-b387-4dfd-291da784e2b5 "Multi-Machine Simulation of Multi-Vehicle Operations (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -192,12 +192,12 @@ Lab 8 video clips:
 Autonomous Collab Search 1–3
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 0a9318d0-6690-34a5-0bbb-87476e059e27 "Autonomous Collaborative Search (PDF)" >}}
+{{% resource_link 0a9318d0-6690-34a5-0bbb-87476e059e27 "Autonomous Collaborative Search (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link 5aedfcb8-509b-2d07-09c2-3215d8218deb "Lab 9 updates" >}}
+{{% resource_link 5aedfcb8-509b-2d07-09c2-3215d8218deb "Lab 9 updates" %}}
 
 Lab 9 video clips:
 
@@ -215,10 +215,10 @@ Lab 9 video clips:
 Goby Acomms Software 1–2
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link f07edae2-a24e-ea87-14d2-3312cabc37aa "Acoustic Communications and Networking (PDF)" >}}
+{{% resource_link f07edae2-a24e-ea87-14d2-3312cabc37aa "Acoustic Communications and Networking (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 30b51f17-8771-12ca-de70-a3d4bf08eff4 "Lab 12 updates" >}}
+{{% resource_link 30b51f17-8771-12ca-de70-a3d4bf08eff4 "Lab 12 updates" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,12 +230,12 @@ Goby Acomms Software 1–2
 Collab Search II / Pavilion
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d2e9c7e5-c2f2-fac2-34dd-dcc949b3979b "Autonomous Collaborative Search Part 2 (PDF)" >}}
+{{% resource_link d2e9c7e5-c2f2-fac2-34dd-dcc949b3979b "Autonomous Collaborative Search Part 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link aa913400-ed17-d392-29c8-4ed62f8bc733 "Lab 15 updates" >}}
+{{% resource_link aa913400-ed17-d392-29c8-4ed62f8bc733 "Lab 15 updates" %}}
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Collab Search II / Pavilion
 Autonomous Front Detection
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 2152e857-85fa-6afc-f736-178a3620962c "Autonomous Front Detection (PDF - 1.6MB)" >}}
+{{% resource_link 2152e857-85fa-6afc-f736-178a3620962c "Autonomous Front Detection (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
@@ -264,7 +264,7 @@ None
 Charles River Lab
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d2432b6f-c673-edbd-db73-a82619847776 "In-Water Autonomous Front Estimation (PDF - 1.6MB)" >}}
+{{% resource_link d2432b6f-c673-edbd-db73-a82619847776 "In-Water Autonomous Front Estimation (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 None
