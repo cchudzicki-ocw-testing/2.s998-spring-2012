@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page describes pXRelay usage and gives a simple example with pXRelay.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: MOOS Basics

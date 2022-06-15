@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes how to launch the MOOSDB from the perspective of
+  the first-time user.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: MOOS Basics

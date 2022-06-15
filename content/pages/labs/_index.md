@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lab topics along with associated
+  lab notes and supporting materials.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

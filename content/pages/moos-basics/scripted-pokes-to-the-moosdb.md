@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page addresses the concept of having a script of pre-arranged pokes
+  to the MOOSDB.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: MOOS Basics

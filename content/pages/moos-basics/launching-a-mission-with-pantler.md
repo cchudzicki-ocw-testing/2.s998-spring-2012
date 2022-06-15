@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page describes how to launch a set of MOOS applications with pAntler.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: MOOS Basics

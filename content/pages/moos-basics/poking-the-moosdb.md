@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page describes how to poke the MOOSDB.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: MOOS Basics

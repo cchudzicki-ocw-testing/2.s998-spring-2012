@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes how to scope the MOOSDB. Scoping refers to the idea
+  of having a view into the current state (or even recent history) of the MOOSDB.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: MOOS Basics
